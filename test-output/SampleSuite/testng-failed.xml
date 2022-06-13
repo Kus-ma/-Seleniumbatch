@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SampleSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="MultipleTest(failed)">
+    <classes>
+      <class name="com.sellabspractice.TestNgProgram">
+        <methods>
+          <include name="B"/>
+        </methods>
+      </class> <!-- com.sellabspractice.TestNgProgram -->
+    </classes>
+  </test> <!-- MultipleTest(failed) -->
+</suite> <!-- Failed suite [SampleSuite] -->
