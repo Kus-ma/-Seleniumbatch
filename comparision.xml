@@ -6,5 +6,10 @@
       <class name="com.sellabspractice.MyTestclass1"/>
       <class name="com.sellabspractice.MyTestclass2"></class>
       </classes>
-   </test>  
+   </test> 
+  <test name="TestTwo">   
+ <classes>
+      <class name="com.sellabspractice.MyTestclass1"/>
+      </classes>
+    </test>
 </suite> 
